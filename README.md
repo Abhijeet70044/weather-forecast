@@ -2,7 +2,7 @@
 type:  "npm i" in your terminal 
 
 
-### Make sure to add your api key in `.env` file -
+### Make sure to add your api key in `.env` file after creating it -
 
 ```
 VITE_OPENWEATHER_API_KEY=your_api_key
